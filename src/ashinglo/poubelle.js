@@ -193,7 +193,7 @@ const Poubelle = () => {
     <div className="app-container">
       <div className="header">
         <div className="logo">
-           <img src="/images/logo3.png" alt="Ashinglo Logo" className="logo-img" />
+          🗑️ SmartWaste
         </div>
         <button 
           className={`logout-btn ${isLoggingOut ? 'logging-out' : ''}`} 
