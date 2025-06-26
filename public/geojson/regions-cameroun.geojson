@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adamaoua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25,
+          7.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Extrême-Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5,
+          11.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Littoral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7,
+          4.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5,
+          9.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nord-Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2,
+          6.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          5.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3,
+          2.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sud-Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3,
+          5.0
+        ]
+      }
+    }
+  ]
+}
